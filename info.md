@@ -5,3 +5,6 @@
 
 Чтобы начать отслеживать файл с именем file_name нужно:
 > git add file_name
+
+Для фиксации отслеживаемых файлов нужно:
+> git commit -m "some message"
