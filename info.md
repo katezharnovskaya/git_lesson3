@@ -30,3 +30,6 @@
 Окно с выводом команды ***git log***:
 
 ![Screenshot must be here!](./git_window.JPG)
+
+Для создания ветки используем команду:
+> git branch branch_name
